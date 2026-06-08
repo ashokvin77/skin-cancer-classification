@@ -101,31 +101,6 @@ Read them in order. Each one hands its output to the next through small files on
 
 ---
 
-## Repository layout
-
-```
-skin-lesion-classification/
-├── notebooks/
-│   ├── 01_data_inspection.ipynb
-│   ├── 02_splits_and_dataset.ipynb
-│   └── 03_models.ipynb
-├── figures/
-│   ├── sample_images.png
-│   ├── class_distribution.png
-│   ├── augmentation_preview.png
-│   ├── baseline_curves.png
-│   ├── baseline_confusion.png
-│   ├── regularized_curves.png
-│   ├── regularized_confusion.png
-│   ├── transfer_curves.png
-│   ├── transfer_confusion.png
-│   └── test_confusion.png
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
 
 ## Limitations and next steps
 
